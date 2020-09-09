@@ -1,6 +1,6 @@
-### Profile Information:
+# Profile Information:
 
-## Engineer, Banking&Finance univerisity degree holder 
+### Engineer, Banking&Finance univerisity degree holder 
 
 
 - 🔭 I’m currently working on ...
