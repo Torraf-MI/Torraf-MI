@@ -7,10 +7,10 @@
 
 ## Areas in which I have interests and experience are:
 
-### Server Components
+### Programming Languages
 #### * [Python](https://www.python.org/) -the most popular language for data science, analysis, and machine learning.
-#### * PostgreSQL 12 - the world's most advanced open source database
-#### * Timescaledb 2.0 - open source time-series database built on top of PostgreSQL
+#### * C++ .
+#### * R - for statistical purposes.
 
 ### Web Framework
 #### * Flask - a lightweight, easy to learn microframework for Python web apps
@@ -27,6 +27,7 @@
 #### * Matplotlib - comprehensive library for creating static, animated, and interactive visualizations in Python
 #### * Plotly - provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphic libraries for Python.
 #### * dash - build& deploy beautiful analytic web apps using Python.
+#### * [streamlit](https://streamlit.io/) - easy way to provide web app.
 #### * mplfinance - matplotlib utilities for the visualization, and visual analysis, of financial data
 #### * jupyterlab -web-based interactive development environment for jupyter notebooks, code, and data pillow
 
