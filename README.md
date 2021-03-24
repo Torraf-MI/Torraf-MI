@@ -56,7 +56,7 @@
 + [FXCM](https://www.fxcm.com/markets/)
 
 ### Data Providers
-+ [intrinio-sdk] -intrinio provides US market data, company fundamentals data, options data and SEC data, powered by advanced data quality technology.
++ [intrinio-sdk](https://pypi.org/project/intrinio-sdk/) -intrinio provides US market data, company fundamentals data, options data and SEC data, powered by advanced data quality technology.
 + [polygon-api-client](https://polygon.io/sample-applications) -python client for Polygon.io, provider of real-time and historical financial market data APIs.
 + [iexfinance](https://www.iexcloud.io/) - Python SDK for IEX Cloud. Easy-to-Use toolkit to obtain data fro Stocks, ETFs, Mutual Funds, Forex/Currencies, Options, Commodities, Bonds, and Cryptocurrencies.
 + [yfinance](https://pypi.org/project/yfinance/) - yfinance offers a reliable, threaded, and Pythonic way to download historical market data from yahoo! finance.
@@ -86,11 +86,12 @@
 + [websocket-client](https://pypi.org/project/websocket-client/) - websocket client for python. This provide the low level APIs for WebSocket.
 + [websockets](https://websockets.readthedocs.io/en/stable/intro.html) - library for building WebSocket servers and clients in Python.
 
-### Utilities 
+### Utilities, and other GUI 
 + [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/) -library for screen-scraping.
 + [pendulum](https://pendulum.eustace.io/) - package to assist with date and time manipulation.
 + [click](https://click.palletsprojects.com/en/7.x/) - package for creating beautiful command line interfaces in a composable way with as little code as necessary.
 + [passlib](https://passlib.readthedocs.io/en/stable/) - password hashing library.
++ [Tkinter](https://docs.python.org/3/library/tkinter.html) - Libary to construct dynamic Graphical User Interfaces.
 
 ### Machine Learning  
 + [tensorflow](https://www.tensorflow.org/) - open source library to help develop and train ML modelslibrary for screen-scraping.
