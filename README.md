@@ -8,7 +8,7 @@
 ## Areas in which I have interests and experience are:
 
 ### Programming Languages
-#### + [Python](https://www.python.org/) -the most popular language for data science, analysis, and machine learning. (MAINLY USED as Quant Developer)
+####+ [Python](https://www.python.org/) -the most popular language for data science, analysis, and machine learning. (MAINLY USED as Quant Developer)
 #### + C++ .
 #### + R - for statistical purposes.
 #### + [MQL4](https://www.mql4.com/) and MQL5 for metatrader
