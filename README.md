@@ -8,7 +8,7 @@
 ## Areas in which I have interests and experience are:
 
 ### Server Components
-#### - Python 3.8 -the most popular language for data science, analysis, and machine learning.
+#### 1. Python 3.8 -the most popular language for data science, analysis, and machine learning.
 #### - PostgreSQL 12 - the world's most advanced open source database
 #### - Timescaledb 2.0 - open source time-series database built on top of PostgreSQL
 
