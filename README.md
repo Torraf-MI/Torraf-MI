@@ -1,60 +1,61 @@
 ## Profile Details:
 #### B.Sc. Management Engineering at "Politecnico di Milano"-Italy | M.Sc. in "Banking&Finance" at USI-Lugano-Switzerland. 
 #### *Currently Enrolled in the CFA program.*
-#### To know more about me  check my linkedin Page: http://www.linkedin.com/in/francescotorraco
+#### To know more, check my linkedin Page: http://www.linkedin.com/in/francescotorraco
 #### Mail me to: francescotorraco@gmail.com
 #### My personal goal for this github account is to show my programming skills to be Hired as a Quant Developer. So, that Academic background and leisure activities will perfectly cope.  
 
 ## Areas in which I have interests and experience are:
 
 ### Programming Languages
-#### * [Python](https://www.python.org/) -the most popular language for data science, analysis, and machine learning.
+#### * [Python](https://www.python.org/) -the most popular language for data science, analysis, and machine learning. (MAINLY USED as Quant Developer)
 #### * C++ .
 #### * R - for statistical purposes.
 
 ### Web Framework
-#### * Flask - a lightweight, easy to learn microframework for Python web apps
-#### * Fast-API - a modern, fast(high performance), web framework for building APIs with Python.
-#### * Django - a more structured framework to build web apps with Python.
+#### * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - a lightweight, easy to learn microframework for Python web apps
+#### * [Fast-API](https://fastapi.tiangolo.com/) - a modern, fast(high performance), web framework for building APIs with Python.
+#### * [Django](https://www.djangoproject.com/) - a more structured framework to build web apps with Python.
 
 ### Data Analysis
-#### * Pandas - A library for data analysis and manipulation of numerical tables and time series
-#### * NumPy - library for multi-dimensional arrays and matrices, amthematical functions
-#### * SciPy - modules for linear algebra, integration, FFT, signal and image processing
-#### * pandas-datareader - remote data access for pandas.
+#### * [Pandas](https://pandas.pydata.org/) - A library for data analysis and manipulation of numerical tables and time series
+#### * [NumPy](https://numpy.org/) - library for multi-dimensional arrays and matrices, amthematical functions
+#### * [SciPy](https://www.scipy.org/) - modules for linear algebra, integration, FFT, signal and image processing
+#### * [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) - remote data access for pandas.
 
 ### Data Visualization
-#### * Matplotlib - comprehensive library for creating static, animated, and interactive visualizations in Python
-#### * Plotly - provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphic libraries for Python.
-#### * dash - build& deploy beautiful analytic web apps using Python.
+#### * [Matplotlib](https://matplotlib.org/) - comprehensive library for creating static, animated, and interactive visualizations in Python
+#### * [Plotly](https://pypi.org/project/plotly/) - provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphic libraries for Python.
+#### * [dash](https://plotly.com/dash/) - build& deploy beautiful analytic web apps using Python.
 #### * [streamlit](https://streamlit.io/) - easy way to provide web app.
-#### * mplfinance - matplotlib utilities for the visualization, and visual analysis, of financial data
-#### * jupyterlab -web-based interactive development environment for jupyter notebooks, code, and data pillow
+#### * [mplfinance](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data
+#### * [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) -web-based interactive development environment for jupyter notebooks, code, and data pillow
 
 ### Technical Analysis
-#### * ta - Technical Analysis Library in Python based on pandas.
-#### * TA-Lib - Python wrapper for TA-Lib
-#### * bta-lib - backtrader ta-lib
-#### * pandas-ta - Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions
-#### * tulipy - Python bindings for Tulip indicators
+#### * [ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) - Technical Analysis Library in Python based on pandas.
+#### * [TA-Lib](https://mrjbq7.github.io/ta-lib/) - Python wrapper for TA-Lib
+#### * [bta-lib](https://btalib.backtrader.com/) - backtrader ta-lib
+#### * [pandas-ta](https://btalib.backtrader.com/) - Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions
+#### * [tulipy](https://github.com/cirla/tulipy) - Python bindings for Tulip indicators
 
 ### Database Libraries and Data Storage
-#### * psycopg2 - Most popular PostgreSQL database adapter for the Python programming Language
-#### * sqlalchemy - SQLAlchemy is the Python SQL toolkit and Object Relationa Mapper that gives application developers the full power and flexibility of SQL.
-#### * redis - open source, in memory data structure store, used as a database, cache, and message broker
-#### * h5py - Pythonic interface to the HDF5 binary data format.
+#### * [PostgreSQL](https://www.postgresql.org/) - the world's most advance open source library.
+#### * [psycopg2](https://pypi.org/project/psycopg2/) - Most popular PostgreSQL database adapter for the Python programming Language.
+#### * [TimeScaleDB](https://www.timescale.com/) - Pythonic interface to the HDF5 binary data format.
+#### * [sqlalchemy](https://www.sqlalchemy.org/) - SQLAlchemy is the Python SQL toolkit and Object Relationa Mapper that gives application developers the full power and flexibility of SQL.
+#### * [redis](https://redis.io/) - open source, in memory data structure store, used as a database, cache, and message broker.
 
 ### Broker APIs
-#### * alpaca_trade_api - python library for the lpaca Commission Free Trading API. It allows rapid trading algo development easily, with support for both REST and streaming data interfaces.
-#### * python-binance - Unofficial Python wrapper for the Binance exchange REST API v3.
-#### * tda-api - tda-api is an unofficial wrapper around the TD Ameritrade APIs. it strives to be as thin and unopinionated as possible, offering an elegant programmatic interface over each endpoint
-#### * ib_insync - the goal of the IB-insync library is to make working with the Trader Workstation API from interactive Brokers as easy as possible.
-#### * robin-stocks -simple to use functions to interact with the robinhood Private API.
+#### * [alpaca_trade_api](https://github.com/alpacahq/alpaca-trade-api-python) - python library for the lpaca Commission Free Trading API. It allows rapid trading algo development easily, with support for both REST and streaming data interfaces.
+#### * [python-binance](https://python-binance.readthedocs.io/en/latest/) - Unofficial Python wrapper for the Binance exchange REST API v3.
+#### * [tda-api](https://github.com/alexgolec/tda-api) - tda-api is an unofficial wrapper around the TD Ameritrade APIs. it strives to be as thin and unopinionated as possible, offering an elegant programmatic interface over each endpoint
+#### * [ib_insync](https://github.com/erdewit/ib_insync) - the goal of the IB-insync library is to make working with the Trader Workstation API from interactive Brokers as easy as possible.
+#### * [robin-stocks](https://robin-stocks.readthedocs.io/en/latest/) -simple to use functions to interact with the robinhood Private API.
 
 ### Data Providers
-#### * intrinio-sdk -intrinio provides US market data, company fundamentals data, options data and SEC data, powered by advanced data quality technology.
-#### * polygon-api-client -python client for Polygon.io, provider of real-time and historical financial market data APIs.
-#### * iexfinance - Python SDK for IEX Cloud. Easy-to-Use toolkit to obtain data fro Stocks, ETFs, Mutual Funds, Forex/Currencies, Options, Commodities, Bonds, and Cryptocurrencies.
+#### * [intrinio-sdk] -intrinio provides US market data, company fundamentals data, options data and SEC data, powered by advanced data quality technology.
+#### * [polygon-api-client](https://polygon.io/sample-applications) -python client for Polygon.io, provider of real-time and historical financial market data APIs.
+#### * [iexfinance](https://www.iexcloud.io/) - Python SDK for IEX Cloud. Easy-to-Use toolkit to obtain data fro Stocks, ETFs, Mutual Funds, Forex/Currencies, Options, Commodities, Bonds, and Cryptocurrencies.
 #### * yfinance - yfinance offers a reliable, threaded, and Pythonic way to download historical market data from yahoo! finance.
 #### * quandl - source for financial, economic, and alternative datasets, serving investment professionals
 #### * alpha-vantage - The alpha-vantage Stock API provides free JSON access to the stock market, plus a comprehensive set of technical indicators
