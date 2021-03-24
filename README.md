@@ -1,4 +1,4 @@
-### Profile Information:
+##Profile Information:
 #### B.Sc. Management Engineering at "Politecnico di Milano"-Italy | M.Sc. in "Banking&Finance" at USI-Lugano-Switzerland. 
 #### Currently Enrolled in the CFA program.
 #### To know more about me  check my linkedin Page: http://www.linkedin.com/in/francescotorraco
