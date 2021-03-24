@@ -7,6 +7,6 @@
 
 ## Areas that will be developed through time:
 
-### Python 3.8 -the most popular language for data science, analysis, and machine learning.
-### PostgreSQL 12 - the world's most advanced open source database
-### Timescaledb 2.0 - open source time-series database built on top of PostgreSQL
+#### - Python 3.8 -the most popular language for data science, analysis, and machine learning.
+#### - PostgreSQL 12 - the world's most advanced open source database
+#### - Timescaledb 2.0 - open source time-series database built on top of PostgreSQL
