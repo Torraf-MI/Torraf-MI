@@ -100,4 +100,4 @@
 + [pytorch](https://pytorch.org/) - optimized tensor library for deep learning using GPUs and CPUs.
 + [opencv-python](https://github.com/opencv/opencv-python) - open source computer vision library
 
->start to code;
+>As working experience increases and time passes, I will keep updated this Overview on the tools that I am able to manage;
